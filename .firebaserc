@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-ffbbc": {
+      "hosting": {
+        "fireChat": [
+          "firechat-ffbbc"
+        ]
+      }
+    }
+  }
+}
